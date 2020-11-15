@@ -22,3 +22,13 @@ Migrate Database:
 
 Runserver:
 ` python manage.py runserver `
+
+Features: <br>
+1. OCR Detection for uploaded files using GCP Vision API <br>
+2. File Uploads <br>
+3. Assignments Section <br>
+4. Ask a Question Section <br>
+5. Quizes Section <br>
+6. Seminars / Video Lectures <br>
+7. Managing Events <br>
+
