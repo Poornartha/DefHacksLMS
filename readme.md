@@ -1,8 +1,8 @@
-This Project Has been Created for Def Hacks 2020
+<b> This Project Has been Created for Def Hacks 2020 </b>
 
 Creator: Poornartha Sawant
 
-Instructions to Run:
+<b> Instructions to Run: </b>
 
 Create Virtual Environment:
 ` python -m venv env `
@@ -23,7 +23,9 @@ Migrate Database:
 Runserver:
 ` python manage.py runserver `
 
-Features: <br>
+
+<b> Features: </b> 
+<br>
 1. OCR Detection for uploaded files using GCP Vision API <br>
 2. File Uploads <br>
 3. Assignments Section <br>
