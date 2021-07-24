@@ -1,6 +1,6 @@
 <b> This Project Has been Created for Def Hacks 2020 </b>
 
-Creator: Poornartha Sawant
+Creator: Poornartha Sawant, Shubh Sanghvi, Vansh Mehta
 
 <b>Youtube Demo Link: https://youtu.be/y4GFop4fkQY <b>
 
